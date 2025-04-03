@@ -1,0 +1,28 @@
+Feature,Importance,Categoría
+produccion_prev_1_year,0.9161006423805553,Producción histórica
+produccion_prev_2_year,0.0792552589697062,Producción histórica
+area_prev_1_year,0.0012593880322956698,Área cosechada histórica
+rendimiento_prev_1_year,0.0008034570850929317,Rendimiento histórico
+Código del producto (CPC),0.0005592981056778117,Tipo de producto
+rendimiento_prev_2_year,0.0003840924916545586,Rendimiento histórico
+area_prev_2_year,0.00030912128331964654,Área cosechada histórica
+temp_media_prev_2_year,0.00025537406746511715,Temperatura
+temp_max_media_prev_2_year,0.00019737805708424413,Temperatura
+rango_temp_anual_prev_1_year,0.00015333251138982743,Variabilidad de temperatura
+temp_min_media_prev_1_year,0.00012690222806902748,Temperatura
+dias_calefaccion_prev_1_year,0.00010448010683282507,Días con necesidades térmicas
+temp_max_prev_2_year,9.403768419130029e-05,Temperatura
+temp_max_prev_1_year,8.406823606239299e-05,Temperatura
+temp_min_prev_1_year,7.416562273046796e-05,Temperatura
+dias_helada_prev_2_year,5.911529659580875e-05,Días de helada
+dias_refrigeracion_prev_2_year,5.3129948868143494e-05,Días con necesidades térmicas
+temp_max_media_prev_1_year,4.9361555831277296e-05,Temperatura
+rango_temp_anual_prev_2_year,4.747866864198551e-05,Variabilidad de temperatura
+temp_min_prev_2_year,1.4866538542470856e-05,Temperatura
+dias_calefaccion_prev_2_year,1.1521989596692538e-05,Días con necesidades térmicas
+dias_refrigeracion_prev_1_year,3.5291397961520604e-06,Días con necesidades térmicas
+temp_media_prev_1_year,0.0,Temperatura
+dias_helada_prev_1_year,0.0,Días de helada
+helada_stress_prev_1_year,0.0,Estrés por helada
+temp_min_media_prev_2_year,0.0,Temperatura
+helada_stress_prev_2_year,0.0,Estrés por helada
