@@ -55,6 +55,7 @@ El proyecto está organizado en una serie de notebooks Jupyter que deben ejecuta
 
 - **Python**: Procesamiento de datos y modelado
 - **Pandas/NumPy**: Manipulación y análisis de datos
+- **os/pathlib**: Gestión de rutas y archivos del sistema
 - **Scikit-learn**: Implementación de modelos de Machine Learning
 - **XGBoost**: Modelado avanzado con Gradient Boosting
 - **Matplotlib/Seaborn**: Visualización de datos
